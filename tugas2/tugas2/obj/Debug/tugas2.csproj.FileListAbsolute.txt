@@ -1,0 +1,7 @@
+D:\Folder penting\Materi Kuliah\Semester 4\Pemrograman Visual\Tugas\tugas2\tugas2\tugas2\bin\Debug\tugas2.exe
+D:\Folder penting\Materi Kuliah\Semester 4\Pemrograman Visual\Tugas\tugas2\tugas2\tugas2\bin\Debug\tugas2.pdb
+D:\Folder penting\Materi Kuliah\Semester 4\Pemrograman Visual\Tugas\tugas2\tugas2\tugas2\obj\Debug\tugas2.csprojResolveAssemblyReference.cache
+D:\Folder penting\Materi Kuliah\Semester 4\Pemrograman Visual\Tugas\tugas2\tugas2\tugas2\obj\Debug\tugas2.MainForm.resources
+D:\Folder penting\Materi Kuliah\Semester 4\Pemrograman Visual\Tugas\tugas2\tugas2\tugas2\obj\Debug\tugas2.csproj.GenerateResource.Cache
+D:\Folder penting\Materi Kuliah\Semester 4\Pemrograman Visual\Tugas\tugas2\tugas2\tugas2\obj\Debug\tugas2.exe
+D:\Folder penting\Materi Kuliah\Semester 4\Pemrograman Visual\Tugas\tugas2\tugas2\tugas2\obj\Debug\tugas2.pdb
