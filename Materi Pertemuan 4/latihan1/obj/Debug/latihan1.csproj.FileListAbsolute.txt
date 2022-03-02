@@ -1,0 +1,7 @@
+D:\Folder penting\Materi Kuliah\Semester 4\Pemrograman Visual\Tugas\tugas2\latihan1\latihan1\bin\Debug\latihan1.exe
+D:\Folder penting\Materi Kuliah\Semester 4\Pemrograman Visual\Tugas\tugas2\latihan1\latihan1\bin\Debug\latihan1.pdb
+D:\Folder penting\Materi Kuliah\Semester 4\Pemrograman Visual\Tugas\tugas2\latihan1\latihan1\obj\Debug\latihan1.csprojResolveAssemblyReference.cache
+D:\Folder penting\Materi Kuliah\Semester 4\Pemrograman Visual\Tugas\tugas2\latihan1\latihan1\obj\Debug\latihan1.MainForm.resources
+D:\Folder penting\Materi Kuliah\Semester 4\Pemrograman Visual\Tugas\tugas2\latihan1\latihan1\obj\Debug\latihan1.csproj.GenerateResource.Cache
+D:\Folder penting\Materi Kuliah\Semester 4\Pemrograman Visual\Tugas\tugas2\latihan1\latihan1\obj\Debug\latihan1.exe
+D:\Folder penting\Materi Kuliah\Semester 4\Pemrograman Visual\Tugas\tugas2\latihan1\latihan1\obj\Debug\latihan1.pdb
